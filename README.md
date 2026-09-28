@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prekshitdave/dsa-solutions/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/prekshitdave/dsa-solutions/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/prekshitdave/dsa-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 ## Bit Manipulation
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/prekshitdave/dsa-solutions/tree/master/0010-regular-expression-matching) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prekshitdave/dsa-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/prekshitdave/dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/prekshitdave/dsa-solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/prekshitdave/dsa-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/prekshitdave/dsa-solutions/tree/master/0010-regular-expression-matching) |
 ## Sliding Window
 |  |
 | ------- |
