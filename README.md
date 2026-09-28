@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prekshitdave/dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/prekshitdave/dsa-solutions/tree/master/0006-zigzag-conversion) |
 ## Sliding Window
 |  |
 | ------- |
