@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prekshitdave/dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/prekshitdave/dsa-solutions/tree/master/0012-integer-to-roman) |
 | [0138-copy-list-with-random-pointer](https://github.com/prekshitdave/dsa-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prekshitdave/dsa-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prekshitdave/dsa-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prekshitdave/dsa-solutions/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/prekshitdave/dsa-solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/prekshitdave/dsa-solutions/tree/master/0029-divide-two-integers) |
 ## Recursion
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/prekshitdave/dsa-solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/prekshitdave/dsa-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/prekshitdave/dsa-solutions/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/prekshitdave/dsa-solutions/tree/master/0012-integer-to-roman) |
 ## Sliding Window
 |  |
 | ------- |
