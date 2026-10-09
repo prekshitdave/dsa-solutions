@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/prekshitdave/dsa-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/prekshitdave/dsa-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/prekshitdave/dsa-solutions/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/prekshitdave/dsa-solutions/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prekshitdave/dsa-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prekshitdave/dsa-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/prekshitdave/dsa-solutions/tree/master/0016-3sum-closest) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prekshitdave/dsa-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/prekshitdave/dsa-solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/prekshitdave/dsa-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/prekshitdave/dsa-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/prekshitdave/dsa-solutions/tree/master/0016-3sum-closest) |
 ## Greedy
 |  |
 | ------- |
