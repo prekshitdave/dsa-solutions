@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prekshitdave/dsa-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prekshitdave/dsa-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/prekshitdave/dsa-solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/prekshitdave/dsa-solutions/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/prekshitdave/dsa-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prekshitdave/dsa-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prekshitdave/dsa-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/prekshitdave/dsa-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/prekshitdave/dsa-solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/prekshitdave/dsa-solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/prekshitdave/dsa-solutions/tree/master/0037-sudoku-solver) |
 ## Greedy
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prekshitdave/dsa-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/prekshitdave/dsa-solutions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/prekshitdave/dsa-solutions/tree/master/0037-sudoku-solver) |
 ## Stack
 |  |
 | ------- |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/prekshitdave/dsa-solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/prekshitdave/dsa-solutions/tree/master/0037-sudoku-solver) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -211,4 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prekshitdave/dsa-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/prekshitdave/dsa-solutions/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/prekshitdave/dsa-solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
